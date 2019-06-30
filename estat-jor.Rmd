@@ -1,7 +1,7 @@
 ---
 title: "Precisamos falar sobre estatística"
 subtitle: "O que jornalistas precisam saber?"
-author: "Renata Hirota | @renata_mh"
+author: "Renata Hirota | @renata_mh | bit.ly/abraji2019"
 date: "Congresso Abraji 2019"
 output: 
   xaringan::moon_reader:
